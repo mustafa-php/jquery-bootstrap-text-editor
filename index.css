@@ -1,0 +1,50 @@
+body {
+  background: #19303b;
+}
+
+.icerikblog {
+  outline: none !important;
+  color: #ffffff;
+}
+
+.duzenleyiciler button {
+  border-radius: 100%;
+  box-shadow: 0.3rem 0.3rem 0.6rem rgba(10, 15, 21, 0.5),
+    -0.2rem -0.2rem 0.5rem rgba(49, 69, 99, 0.5);
+  position: relative;
+  padding: 1.5rem;
+  margin: 0.1rem;
+}
+
+.duzenleyiciler button:active {
+  box-shadow: inset 0.2rem 0.2rem 0.5rem rgba(10, 15, 21, 0.5),
+    inset -0.2rem -0.2rem 0.5rem rgba(49, 69, 99, 0.5);
+}
+
+.duzenleyiciler button svg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.icerikblog {
+  white-space: break-spaces !important;
+  height: 60vh;
+  box-shadow: inset 0.2rem 0.2rem 0.5rem rgba(10, 15, 21, 0.657),
+    inset -0.2rem -0.2rem 0.5rem rgb(49, 69, 99);
+  padding: 1.3rem;
+  border-radius: 2rem 0 0 1rem;
+  font-size: 1.1rem;
+}
+
+button {
+  width: auto;
+  height: auto;
+  border: 0;
+  font-size: 15px;
+  background: transparent;
+  color: white;
+  filter: drop-shadow(0 1px 5px rgba(0, 0, 0, 0.229));
+  vertical-align: middle;
+}
