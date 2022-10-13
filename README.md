@@ -1,2 +1,2 @@
-# jquery-bootstrap-text-editor
-Jquery &amp; Bootstrap ile Basit Yazı Editörü
+# JQUERY & BOOTSTRAP ile Basit Yazı Editörü 
+Jquery & Bootstrap ile Basit Yazı Editörü yapımı
