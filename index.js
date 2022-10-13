@@ -4,6 +4,6 @@ $(document).ready(function () {
       var secim = secim.split("-");
 
       document.execCommand(secim[0], false, secim[1]);
-      $(".icerikblog").focus();
+      $(".icerik").focus();
     });
   });
